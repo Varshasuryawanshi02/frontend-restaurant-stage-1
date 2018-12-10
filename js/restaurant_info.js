@@ -264,7 +264,7 @@ const getParameterByName = (name, url) => {
 // };
 // window.onload = hideMapTabs;
 
- */
+ 
 document.addEventListener('DOMContentLoaded', (event) => {  
   initMap();
 });
